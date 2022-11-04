@@ -1,0 +1,15 @@
+C:\универ\шарпик\C-_lab_1\Lab1_src\bin\Debug\net6.0\Lab1_src.exe
+C:\универ\шарпик\C-_lab_1\Lab1_src\bin\Debug\net6.0\Lab1_src.deps.json
+C:\универ\шарпик\C-_lab_1\Lab1_src\bin\Debug\net6.0\Lab1_src.runtimeconfig.json
+C:\универ\шарпик\C-_lab_1\Lab1_src\bin\Debug\net6.0\Lab1_src.dll
+C:\универ\шарпик\C-_lab_1\Lab1_src\bin\Debug\net6.0\Lab1_src.pdb
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.csproj.AssemblyReference.cache
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.GeneratedMSBuildEditorConfig.editorconfig
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.AssemblyInfoInputs.cache
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.AssemblyInfo.cs
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.csproj.CoreCompileInputs.cache
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.dll
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\refint\Lab1_src.dll
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.pdb
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\Lab1_src.genruntimeconfig.cache
+C:\универ\шарпик\C-_lab_1\Lab1_src\obj\Debug\net6.0\ref\Lab1_src.dll

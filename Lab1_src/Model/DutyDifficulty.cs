@@ -1,4 +1,4 @@
-﻿namespace Lab1_src.Interface;
+﻿namespace Lab1_src.Model;
 
 internal enum DutyDifficulty
 {
